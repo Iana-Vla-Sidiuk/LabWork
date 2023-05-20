@@ -1,0 +1,4 @@
+﻿  Lab5.cpp
+C:\C++\LWork\Lab5\Lab5.cpp(18,14): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\C++\LWork\Lab5\Lab5.cpp(19,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab5.vcxproj -> C:\C++\LWork\Lab5\x64\Debug\Lab5.exe

@@ -1,0 +1,4 @@
+﻿  Lab3.cpp
+C:\C++\LWork\Lab3\Lab3.cpp(20,14): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\C++\LWork\Lab3\Lab3.cpp(21,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab3.vcxproj -> C:\C++\LWork\Lab3\x64\Debug\Lab3.exe

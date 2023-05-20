@@ -1,0 +1,4 @@
+﻿  Lab13.cpp
+C:\C++\LWork\Lab13\Lab13.cpp(31,14): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\C++\LWork\Lab13\Lab13.cpp(32,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab13.vcxproj -> C:\C++\LWork\Lab13\x64\Debug\Lab13.exe

@@ -1,0 +1,5 @@
+﻿  Lab6.cpp
+C:\C++\LWork\Lab6\Lab6.cpp(16,14): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\C++\LWork\Lab6\Lab6.cpp(17,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\C++\LWork\Lab6\Lab6.cpp(31,9): warning C4551: в вызове функции отсутствует список аргументов
+  Lab6.vcxproj -> C:\C++\LWork\Lab6\x64\Debug\Lab6.exe
